@@ -1,6 +1,7 @@
 Projekt Beschreibung: 
 Dieses Projekt beschreibt einen Datensatz bzgl. der crowdfunding Platform "Kickstarter".
-Ziel des Projekts ist es Zusammenhänge zwischen Projekt - Kategorien und Erfolgschancen herauszufinden.
+Ziel des Projekts ist es Zusammenhänge zwischen Projekt - Kategorien und Erfolgschancen herauszufinden,
+sowie die Verteilung der gespendeten Beiträge zu analysieren.
 
 Teilnehmer:
 Garrit Wilson
@@ -20,5 +21,14 @@ Plattform:
 
 Notebooks:
 Kickstarter-Analyse.ipynb
+
+Struktur:
+1. ETL
+2. Data Cleaning
+3. EDA
+4. Analyse
+5. Visualisierungen
+6. Zusammenfassung
+7. Ausreißer
 
 
